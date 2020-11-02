@@ -3,7 +3,7 @@ Realidade Aumentada com AR.js <br> Exemplo - Hiro Code
 
 <br>
 
-Para visualizar esse projeto online click no link: [exemplo](https://spartalisdigital.github.io/ar.js-exemple-hiro-code/)
+Para visualizar esse projeto online click no link: [exemplo ao vivo](https://spartalisdigital.github.io/ar.js-exemple-hiro-code/)
 
 <br>
 
