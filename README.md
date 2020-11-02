@@ -7,6 +7,9 @@ Para visualizar esse projeto online click no link: [exemplo ao vivo](https://spa
 
 <br>
 
+![](https://stemkoski.github.io/AR-Examples/images/demo/hello-cube.png)
+
+
 Arquivos do Projeto
 --------------------
 
